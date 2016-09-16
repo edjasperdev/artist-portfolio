@@ -1,0 +1,15 @@
+header{
+	/*border: 1px black solid;*/
+	background-color: #323232;
+	margin: 0;
+}
+
+#nav{
+	margin:0;
+	height: 125px;
+}
+
+#nav li{
+	display: inline-block;
+	margin: 0 10px;
+}
